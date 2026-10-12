@@ -20,6 +20,8 @@ I use AI coding assistants as part of my daily workflow. Nothing they produce is
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="assets/projects-panel.svg" alt="Projects list: Orquestrador-novamart, Asyncflow, E-commerce-voltstore and GTA-V-story-mode-ai" width="100%">
