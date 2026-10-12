@@ -57,6 +57,14 @@ I use AI coding assistants as part of my daily workflow. Nothing they produce is
 
 <div align="center">
 
+<img src="assets/contributions.svg" alt="Contribution activity: 75 contributions in the last year, shown as an animated graph where a spaceship shoots the active days" width="100%">
+
+</div>
+
+<br>
+
+<div align="center">
+
 [**All repositories →**](https://github.com/eduardomartim?tab=repositories)
 
 </div>
