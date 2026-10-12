@@ -42,7 +42,7 @@ I use AI coding assistants as part of my workflow. I treat their output as a dra
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=py,ts,js,html,css,nodejs,react,nextjs,tailwind,fastapi,postgres,supabase,redis,rabbitmq,docker,git&theme=dark&perline=8">
+  <source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Chtml%2Ccss%2Cnodejs%2Creact%2Cnextjs%2Ctailwind%2Cfastapi%2Cpostgres%2Csupabase%2Credis%2Crabbitmq%2Cdocker%2Cgit&theme=dark&perline=8">
   <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,nodejs,react,nextjs,tailwind,fastapi,postgres,supabase,redis,rabbitmq,docker,git&theme=dark&perline=16" alt="Technologies: Python, TypeScript, JavaScript, HTML, CSS, Node.js, React, Next.js, Tailwind CSS, FastAPI, PostgreSQL, Supabase, Redis, RabbitMQ, Docker, Git" width="100%">
 </picture>
 
