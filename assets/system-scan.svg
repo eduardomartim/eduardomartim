@@ -4,7 +4,7 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0f12"/><stop offset="1" stop-color="#1a1d23"/></linearGradient>
     <linearGradient id="rg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#ff3b3b"><animate attributeName="stop-color" values="#ff3b3b;#ff7a5c;#ff3b3b" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="0" stop-color="#ff3b3b"/>
       <stop offset="1" stop-color="#d11f2a"/>
     </linearGradient>
     <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">

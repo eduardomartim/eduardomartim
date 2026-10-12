@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Eduardo — Software Engineer | AI Systems | Agentic AI" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
+  <img src="assets/header.svg" alt="Eduardo — Software Engineer | AI Systems | Agentic AI" width="100%">
+</picture>
 
 </div>
 
@@ -16,7 +19,10 @@ I use AI coding assistants as part of my workflow. I treat their output as a dra
 
 <div align="center">
 
-<img src="assets/system-scan.svg" alt="Terminal-style profile scan: Eduardo, Software Engineer. Focus: AI systems and agentic AI. Languages: Python, TypeScript, JavaScript. Backend: FastAPI, PostgreSQL, RabbitMQ, Redis. Frontend: Next.js, React, Vite, Tailwind. Data and auth: Supabase, Row Level Security, pgvector. Agents: LangGraph, MCP, RAG, policy engine." width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/system-scan-mobile.svg">
+  <img src="assets/system-scan.svg" alt="Terminal-style profile scan: Eduardo, Software Engineer. Focus: AI systems and agentic AI. Languages: Python, TypeScript, JavaScript. Backend: FastAPI, PostgreSQL, RabbitMQ, Redis. Frontend: Next.js, React, Vite, Tailwind. Data and auth: Supabase, Row Level Security, pgvector. Agents: LangGraph, MCP, RAG, policy engine." width="100%">
+</picture>
 
 </div>
 
@@ -24,7 +30,10 @@ I use AI coding assistants as part of my workflow. I treat their output as a dra
 
 <div align="center">
 
-<img src="assets/projects-panel.svg" alt="Projects list: Orquestrador-novamart, Asyncflow, E-commerce-voltstore and GTA-V-story-mode-ai" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/projects-panel-mobile.svg">
+  <img src="assets/projects-panel.svg" alt="Projects list: Orquestrador-novamart, Asyncflow, E-commerce-voltstore and GTA-V-story-mode-ai" width="100%">
+</picture>
 
 </div>
 
@@ -32,7 +41,10 @@ I use AI coding assistants as part of my workflow. I treat their output as a dra
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,nodejs,react,nextjs,tailwind,fastapi,postgres,supabase,redis,rabbitmq,docker,git&theme=dark&perline=16" alt="Technologies: Python, TypeScript, JavaScript, HTML, CSS, Node.js, React, Next.js, Tailwind CSS, FastAPI, PostgreSQL, Supabase, Redis, RabbitMQ, Docker, Git" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=py,ts,js,html,css,nodejs,react,nextjs,tailwind,fastapi,postgres,supabase,redis,rabbitmq,docker,git&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,nodejs,react,nextjs,tailwind,fastapi,postgres,supabase,redis,rabbitmq,docker,git&theme=dark&perline=16" alt="Technologies: Python, TypeScript, JavaScript, HTML, CSS, Node.js, React, Next.js, Tailwind CSS, FastAPI, PostgreSQL, Supabase, Redis, RabbitMQ, Docker, Git" width="100%">
+</picture>
 
 </div>
 
@@ -57,7 +69,10 @@ I use AI coding assistants as part of my workflow. I treat their output as a dra
 
 <div align="center">
 
-<img src="assets/contributions.svg" alt="Contribution activity: 75 contributions in the last year, shown as an animated graph where a spaceship shoots the active days" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
+  <img src="assets/contributions.svg" alt="Contribution activity, shown as an animated graph where a spaceship shoots the active days" width="100%">
+</picture>
 
 </div>
 
