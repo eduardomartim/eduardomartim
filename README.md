@@ -6,6 +6,12 @@
 
 <br>
 
+<div align="center">
+
+<img src="assets/system-scan.svg" alt="Terminal-style profile scan: Eduardo, Software Engineer. Focus: AI systems and agentic AI. Languages: Python, TypeScript, JavaScript. Backend: FastAPI, PostgreSQL, RabbitMQ, Redis. Frontend: Next.js, React, Vite, Tailwind. Data and auth: Supabase, Row Level Security, pgvector. Agents: LangGraph, MCP, RAG, policy engine." width="100%">
+
+</div>
+
 I'm a software engineer focused on backend, full-stack and AI systems. I build applications end to end (architecture, implementation, automated tests, deployment) and I spend my time on the parts that are easy to get wrong: **who is allowed to do what, what a customer is charged, what happens when a message is delivered twice, and what an AI agent may and may not do.**
 
 My rule of thumb: critical rules belong in code, in the database and in tests, not in a prompt or in the UI. That shows up in my repositories as a deterministic policy engine in front of LLM tool calls, PostgreSQL Row Level Security, signature-verified payment webhooks, transactional outbox messaging, and retrieval that refuses to answer without evidence.
