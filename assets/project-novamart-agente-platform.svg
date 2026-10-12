@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220" role="img" aria-labelledby="t">
+  <title id="t">novamart-agente-platform: Governed multi-agent AI: a policy engine, tool gateway, human approval and an audit trail. Stack: Python · LangGraph · MCP. Status: simulated tools · offline stub.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14171c"/><stop offset="1" stop-color="#1c2027"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff3b3b" stop-opacity="0.35"/><stop offset="1" stop-color="#ff3b3b" stop-opacity="0"/></linearGradient>
+    
+  </defs>
+  <g class="c">
+  <rect x="1" y="1" width="558" height="218" rx="12" fill="url(#bg)"/>
+  <rect x="1" y="1" width="558" height="218" rx="12" fill="none" stroke="#fff" stroke-opacity="0.09"/>
+  <rect x="1" y="1" width="558" height="3" rx="1.5" fill="url(#glow)"/>
+  <circle cx="26" cy="31" r="4" fill="#ff5f56"/><circle cx="42" cy="31" r="4" fill="#ffbd2e"/><circle cx="58" cy="31" r="4" fill="#27c93f" fill-opacity="0.6"/>
+  <text x="532" y="35" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#6b727c">PROJECT 01</text>
+  <path d="M0 50H560" stroke="#fff" stroke-opacity="0.07"/>
+  <text x="28" y="82" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#f5f6f8"><tspan fill="#ff3b3b">&gt;</tspan> novamart-agente-platform</text>
+  <rect x="315" y="66" width="9" height="17" fill="#ff3b3b"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+  <text x="28" y="104" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#aab1bb">Governed multi-agent AI: a policy engine, tool</text><text x="28" y="126" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#aab1bb">gateway, human approval and an audit trail.</text>
+  <path d="M28 156H532" stroke="#fff" stroke-opacity="0.07"/>
+  <text x="28" y="182" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#ff3b3b">Python · LangGraph · MCP</text>
+  <circle cx="30" cy="203" r="3.5" fill="#ff3b3b"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <text x="42" y="207" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8a919b">simulated tools · offline stub</text>
+  <path d="M512 196l8 6-8 6" fill="none" stroke="#ff3b3b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
