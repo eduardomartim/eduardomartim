@@ -26,13 +26,6 @@ I use AI coding assistants as part of my daily workflow. Nothing they produce is
 
 <img src="assets/projects-panel.svg" alt="Projects list: Orquestrador-novamart, Asyncflow, E-commerce-voltstore and GTA-V-story-mode-ai" width="100%">
 
-<sub>
-<a href="https://github.com/eduardomartim/Orquestrador-novamart">Orquestrador-novamart</a> ·
-<a href="https://github.com/eduardomartim/Asyncflow">Asyncflow</a> ·
-<a href="https://github.com/eduardomartim/E-commerce-voltstore">E-commerce-voltstore</a> (<a href="https://voltstore-beta.vercel.app">demo</a>) ·
-<a href="https://github.com/eduardomartim/GTA-V-story-mode-ai">GTA-V-story-mode-ai</a> (<a href="https://gta-v-story-mode-ai.vercel.app">demo</a>)
-</sub>
-
 </div>
 
 <br>
