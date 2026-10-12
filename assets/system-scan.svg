@@ -66,9 +66,7 @@
   </defs>
   <rect x="1" y="1" width="1178" height="598" rx="16" fill="url(#bg)"/>
   <rect x="1" y="1" width="1178" height="598" rx="16" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1178" height="598" rx="16" fill="none" stroke="#ff3b3b" stroke-width="1.5">
-    <animate attributeName="stroke-opacity" values="0.2;0.6;0.2" dur="3.8s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="1" y="1" width="1178" height="598" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
   <circle cx="34" cy="32" r="6" fill="#ff5f56"/><circle cx="56" cy="32" r="6" fill="#ffbd2e"/><circle cx="78" cy="32" r="6" fill="#27c93f" fill-opacity="0.6"/>
   <text x="590" y="37" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#9aa1ab">eduardo@github ~ $ ./profile --scan</text>
   <path d="M0 58H1180" stroke="#fff" stroke-opacity="0.07"/>

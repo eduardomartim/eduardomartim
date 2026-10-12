@@ -71,5 +71,5 @@
     <text x="18" y="164" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e"><tspan fill="#ff3b3b">&#9733;</tspan> 0<tspan fill-opacity="0.7" dx="12">TypeScript</tspan></text>
     <circle cx="348" cy="98" r="25" fill="none" stroke="#8b949e" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="98" r="25" fill="none" stroke="#3178c6" stroke-width="8" stroke-dasharray="155.82 1.26" stroke-dashoffset="0.00" transform="rotate(-90 348 98)"><animate attributeName="stroke-dasharray" from="0 157.08" to="155.82 1.26" dur="0.9s" begin="0.85s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="102" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#e6edf3">99%</text>
   </g>
-  <rect x="0.5" y="0.5" width="859" height="479" rx="19.5" fill="none" stroke="#ff3b3b" stroke-opacity="0.62"/>
+  <rect x="0.5" y="0.5" width="859" height="479" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
 </svg>
