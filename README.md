@@ -22,22 +22,16 @@ I use AI coding assistants as part of my daily workflow. Nothing they produce is
 
 <div align="center">
 
-<img src="assets/projects-header.svg" alt="Projects list: 4 featured public repositories" width="100%">
+<img src="assets/projects-panel.svg" alt="Projects list: Orquestrador-novamart, Asyncflow, E-commerce-voltstore and GTA-V-story-mode-ai" width="100%">
+
+<sub>
+<a href="https://github.com/eduardomartim/Orquestrador-novamart">Orquestrador-novamart</a> ·
+<a href="https://github.com/eduardomartim/Asyncflow">Asyncflow</a> ·
+<a href="https://github.com/eduardomartim/E-commerce-voltstore">E-commerce-voltstore</a> (<a href="https://voltstore-beta.vercel.app">demo</a>) ·
+<a href="https://github.com/eduardomartim/GTA-V-story-mode-ai">GTA-V-story-mode-ai</a> (<a href="https://gta-v-story-mode-ai.vercel.app">demo</a>)
+</sub>
 
 </div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top"><a href="https://github.com/eduardomartim/novamart-agente-platform"><img src="assets/project-novamart-agente-platform.svg" alt="novamart-agente-platform: see the repository on GitHub" width="100%"></a></td>
-    <td width="50%" valign="top"><a href="https://github.com/eduardomartim/asyncflow"><img src="assets/project-asyncflow.svg" alt="asyncflow: see the repository on GitHub" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><a href="https://github.com/eduardomartim/voltstore"><img src="assets/project-voltstore.svg" alt="voltstore: see the repository on GitHub" width="100%"></a></td>
-    <td width="50%" valign="top"><a href="https://github.com/eduardomartim/gta-v-story-mode-ai"><img src="assets/project-gta-v-story-mode-ai.svg" alt="gta-v-story-mode-ai: see the repository on GitHub" width="100%"></a></td>
-  </tr>
-</table>
-
-<sub>Every project is a public portfolio project; each README states what is simulated or limited. Live demos: [voltstore](https://voltstore-beta.vercel.app) · [gta-v-story-mode-ai](https://gta-v-story-mode-ai.vercel.app)</sub>
 
 <br>
 
