@@ -30,51 +30,11 @@ I use AI coding assistants as part of my daily workflow. Nothing they produce is
 
 <br>
 
-## Tech stack
+<div align="center">
 
-Technologies that appear in the projects above.
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,nodejs,react,nextjs,tailwind,fastapi,postgres,supabase,redis,rabbitmq,docker,git&theme=dark&perline=16" alt="Technologies: Python, TypeScript, JavaScript, HTML, CSS, Node.js, React, Next.js, Tailwind CSS, FastAPI, PostgreSQL, Supabase, Redis, RabbitMQ, Docker, Git" width="100%">
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,ts,js&theme=dark" alt="Python, TypeScript, JavaScript" height="44">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,rabbitmq,redis&theme=dark" alt="FastAPI, RabbitMQ, Redis" height="44"><br>
-      <sub>SQLAlchemy · Alembic · Starlette · Stripe API</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite, Tailwind CSS" height="44">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data &amp; auth</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" alt="PostgreSQL, Supabase" height="44"><br>
-      <sub>Row Level Security · pgvector · SQLite FTS5</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI &amp; agents</b></td>
-    <td>
-      LangGraph · Google Gemini · Model Context Protocol (MCP) · Retrieval-augmented generation · LLM provider adapters (Anthropic, OpenAI, Google)
-    </td>
-  </tr>
-  <tr>
-    <td><b>Quality &amp; delivery</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vitest,githubactions,docker,git,vercel&theme=dark" alt="Vitest, GitHub Actions, Docker, Git, Vercel" height="44"><br>
-      <sub>pytest · Playwright · pgTAP · Ruff · mypy · ESLint</sub>
-    </td>
-  </tr>
-</table>
+</div>
 
 <br>
 
