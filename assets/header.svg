@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Eduardo, Software Engineer focused on AI systems and agentic AI</title>
+  <desc id="d">Animated banner cycling through three lines: Software Engineer, AI Systems, Agentic AI; design, implement, test, evaluate; policy-controlled agents, auditable by design.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0f12"/><stop offset="1" stop-color="#1a1d23"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff3b3b"/><stop offset="1" stop-color="#ff3b3b" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <style>
+      .l { opacity: 0; animation: cycle 12s infinite; }
+      .l1 { opacity: 1; animation-delay: 0s; }
+      .l2 { animation-delay: 4s; }
+      .l3 { animation-delay: 8s; }
+      @keyframes cycle {
+        0% { opacity: 0; transform: translateY(8px); }
+        4% { opacity: 1; transform: translateY(0); }
+        30% { opacity: 1; transform: translateY(0); }
+        33.3% { opacity: 0; transform: translateY(-8px); }
+        100% { opacity: 0; transform: translateY(-8px); }
+      }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .scan { animation: scan 6s ease-in-out infinite alternate; }
+      @keyframes scan { from { transform: translateX(0); } to { transform: translateX(640px); } }
+      @media (prefers-reduced-motion: reduce) {
+        .l, .cursor, .scan { animation: none; }
+        .l2, .l3 { opacity: 0; }
+      }
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="80" y="64" width="56" height="4" rx="2" fill="#ff3b3b"/>
+  <text x="80" y="140" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#f5f6f8" letter-spacing="-1">Eduardo</text>
+  <text x="80" y="182" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#9aa1ab">Software Engineer · Backend · Full-Stack · AI Systems</text>
+  <rect x="80" y="214" width="560" height="1" fill="url(#line)" opacity="0.5"/>
+  <rect class="scan" x="80" y="213" width="40" height="3" rx="1.5" fill="#ff3b3b"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#e6e8eb">
+    <g class="l l1"><text x="80" y="262"><tspan fill="#ff3b3b">&gt;</tspan> Software Engineer | AI Systems | Agentic AI</text></g>
+    <g class="l l2"><text x="80" y="262"><tspan fill="#ff3b3b">&gt;</tspan> design · implement · test · evaluate</text></g>
+    <g class="l l3"><text x="80" y="262"><tspan fill="#ff3b3b">&gt;</tspan> policy-controlled agents, auditable by design</text></g>
+  </g>
+  <rect class="cursor" x="80" y="278" width="14" height="3" fill="#ff3b3b"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1.5">
+    <rect x="860" y="70" width="240" height="56" rx="8"/>
+    <rect x="900" y="150" width="200" height="56" rx="8"/>
+    <rect x="940" y="230" width="160" height="56" rx="8"/>
+    <path d="M860 98H830V178H900M900 178M830 178V258H940"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#9aa1ab">
+    <text x="880" y="103">policy engine</text>
+    <text x="920" y="183">tool gateway</text>
+    <text x="960" y="263">audit trail</text>
+  </g>
+  <circle cx="1084" cy="98" r="4" fill="#ff3b3b"/>
+  <circle cx="1084" cy="178" r="4" fill="#4d8dff"/>
+  <circle cx="1084" cy="258" r="4" fill="#9aa1ab"/>
+</svg>
