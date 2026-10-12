@@ -2,8 +2,23 @@
   <title id="t">Projects list: Orquestrador-novamart, Asyncflow, E-commerce-voltstore and GTA-V-story-mode-ai</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0f12"/><stop offset="0.54" stop-color="#1a1d23"/><stop offset="1" stop-color="#0d0f12"/></linearGradient>
+    <radialGradient id="o1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.30"/><stop offset="0.58" stop-color="#ffffff" stop-opacity="0.08"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <clipPath id="fr"><rect width="860" height="480" rx="20"/></clipPath>
+    <style>
+      .a{animation:fa 9s ease-in-out infinite} .b{animation:fb 11s ease-in-out infinite 1.1s} .c{animation:fc 13s ease-in-out infinite .6s}
+      @keyframes fa{0%,100%{transform:translate(0,0);opacity:.58}50%{transform:translate(28px,-20px);opacity:.86}}
+      @keyframes fb{0%,100%{transform:translate(0,0);opacity:.42}50%{transform:translate(-24px,18px);opacity:.72}}
+      @keyframes fc{0%,100%{transform:translate(0,0) scale(1);opacity:.34}50%{transform:translate(18px,-12px) scale(1.18);opacity:.62}}
+      @media (prefers-reduced-motion:reduce){.a,.b,.c{animation:none}}
+    </style>
   </defs>
   <rect width="860" height="480" rx="20" fill="url(#bg)"/>
+  <g clip-path="url(#fr)">
+    <ellipse class="a" cx="138" cy="49" rx="206" ry="126" fill="url(#o1)"/>
+    <ellipse class="b" cx="654" cy="60" rx="241" ry="115" fill="url(#o1)"/>
+    <ellipse class="c" cx="499" cy="447" rx="310" ry="93" fill="url(#o1)"/>
+    <ellipse class="b" cx="826" cy="420" rx="172" ry="115" fill="url(#o1)"/>
+  </g>
   <text x="30" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#ff3b3b">PROJECTS.LIST</text>
   <text x="180" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e" fill-opacity="0.8">./projects.sh --all</text>
   <text x="830" y="40" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e" fill-opacity="0.7">4 pinned</text>
