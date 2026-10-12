@@ -6,7 +6,6 @@
     <style>
       .l{opacity:0;animation:cycle 12s infinite} .l1{opacity:1;animation-delay:0s} .l2{animation-delay:4s} .l3{animation-delay:8s}
       @keyframes cycle{0%{opacity:0}4%{opacity:1}30%{opacity:1}33.3%{opacity:0}100%{opacity:0}}
-      .cursor{animation:blink 1s steps(1) infinite} @keyframes blink{50%{opacity:0}}
     </style>
   </defs>
   <rect width="390" height="210" rx="14" fill="url(#bg)"/>
@@ -20,5 +19,5 @@
     <g class="l l2"><text x="24" y="170"><tspan fill="#ff3b3b">&gt;</tspan> design · implement · test · evaluate</text></g>
     <g class="l l3"><text x="24" y="170"><tspan fill="#ff3b3b">&gt;</tspan> policy-controlled agents, auditable by design</text></g>
   </g>
-  <rect class="cursor" x="24" y="182" width="9" height="2.5" fill="#ff3b3b"/>
+  <rect x="24" y="182" width="9" height="2.5" fill="#ff3b3b"/>
 </svg>
